@@ -24,7 +24,7 @@
 
 ### 登录失败页面
 
-<img title="" src="resources/img_readme/登陆失败.png" alt="示例图片" width="474">
+![登陆失败](resources/img_readme/登陆失败.png)
 
 - 当用户输入错误的用户名或密码时，显示登录失败提示。
 
