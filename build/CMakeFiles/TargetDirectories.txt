@@ -1,0 +1,3 @@
+/home/lc/Linux-Based-AI-Chat-Server-main/build/CMakeFiles/main.dir
+/home/lc/Linux-Based-AI-Chat-Server-main/build/CMakeFiles/edit_cache.dir
+/home/lc/Linux-Based-AI-Chat-Server-main/build/CMakeFiles/rebuild_cache.dir

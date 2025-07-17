@@ -1,0 +1,374 @@
+2025-07-07 16:31:18.318230 [info]: new connect, fd: 9
+2025-07-07 16:31:18.318415 [info]: new connect, fd: 10
+2025-07-07 16:31:18.318434 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:31:18.318621 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:31:18.318645 [info]: the m_url: /index.html
+
+2025-07-07 16:31:18.334297 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:31:20.818854 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:31:20.819003 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:31:20.819028 [info]: the m_url: /send-message
+
+2025-07-07 16:31:21.066548 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:32:52.168904 [info]: new connect, fd: 9
+2025-07-07 16:32:52.169053 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:32:52.169137 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:32:52.169163 [info]: the m_url: /index.html
+
+2025-07-07 16:32:52.169404 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:32:52.171058 [info]: new connect, fd: 10
+2025-07-07 16:32:55.347668 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:32:55.348111 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:32:55.348171 [info]: the m_url: /send-message
+
+2025-07-07 16:32:56.102692 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:41:08.225584 [info]: new connect, fd: 9
+2025-07-07 16:41:08.226171 [info]: new connect, fd: 10
+2025-07-07 16:41:19.029526 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:41:19.030119 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:41:19.030178 [info]: the m_url: /index.html
+
+2025-07-07 16:41:19.030630 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:41:28.372839 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:41:28.373117 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:41:28.373163 [info]: the m_url: /send-message
+
+2025-07-07 16:41:28.632348 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:41:31.300754 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:41:31.300828 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:41:31.300869 [info]: the m_url: /send-message
+
+2025-07-07 16:41:31.536195 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:41:34.039904 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:41:34.040180 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:41:34.040249 [info]: the m_url: /send-message
+
+2025-07-07 16:41:34.283509 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:42:52.595900 [info]: new connect, fd: 9
+2025-07-07 16:42:52.595994 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:42:52.596253 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:42:52.596288 [info]: the m_url: /index.html
+
+2025-07-07 16:42:52.596615 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:42:52.598158 [info]: new connect, fd: 10
+2025-07-07 16:42:55.162729 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:42:55.163072 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:42:55.163138 [info]: the m_url: /send-message
+
+2025-07-07 16:42:55.724438 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:43:00.194515 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:43:00.194695 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:43:00.194729 [info]: the m_url: /send-message
+
+2025-07-07 16:43:00.750625 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:44:47.644935 [info]: new connect, fd: 9
+2025-07-07 16:44:47.645033 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:44:47.645130 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:44:47.645150 [info]: the m_url: /index.html
+
+2025-07-07 16:44:47.645317 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:44:47.653146 [info]: new connect, fd: 10
+2025-07-07 16:44:49.971345 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:44:49.971582 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:44:49.971675 [info]: the m_url: /send-message
+
+2025-07-07 16:44:54.605829 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:45:03.667717 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:45:03.668200 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:45:03.668261 [info]: the m_url: /index.html
+
+2025-07-07 16:45:03.668668 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:45:12.468510 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:45:12.470697 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 68
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"你好呀","model":"gpt-3.5-turbo"} 
+
+2025-07-07 16:45:12.470816 [info]: the m_url: /send-message
+
+2025-07-07 16:45:17.533283 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:50:52.621613 [info]: new connect, fd: 9
+2025-07-07 16:51:04.139574 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:51:04.140015 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:51:04.140884 [info]: the m_url: /index.html
+
+2025-07-07 16:51:04.141288 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:51:04.143425 [info]: new connect, fd: 10
+2025-07-07 16:51:36.497539 [info]: new connect, fd: 9
+2025-07-07 16:51:36.497792 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:51:36.498014 [info]: 请求：
+ GET /index.html HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ 
+
+2025-07-07 16:51:36.498052 [info]: the m_url: /index.html
+
+2025-07-07 16:51:36.498339 [info]: send data to the client (192.168.11.1)
+
+2025-07-07 16:51:36.499671 [info]: new connect, fd: 10
+2025-07-07 16:51:44.675093 [info]: deal with the client (192.168.11.1)
+
+2025-07-07 16:51:44.675401 [info]: 请求：
+ POST /send-message HTTP/1.1
+Host: 192.168.11.129:8080
+Connection: keep-alive
+Content-Length: 55
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.11.129:8080
+Referer: http://192.168.11.129:8080/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+{"username":"JohnDoe","message":"1","model":"deepseek"} 
+
+2025-07-07 16:51:44.675458 [info]: the m_url: /send-message
+
+2025-07-07 16:51:48.606286 [info]: send data to the client (192.168.11.1)
+

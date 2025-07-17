@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/main.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/main.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/ChatBot/ChatBot.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/ChatBot/ChatBot.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot/ChatBot.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/http/http_conn.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/http/http_conn.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/http/http_conn.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/log/log.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/log/log.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/log/log.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/MySQL/MySQL.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/MySQL/MySQL.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/MySQL/MySQL.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/timer/timer.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/timer/timer.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/timer/timer.cpp"
+},
+{
+  "directory": "/home/lc/Linux-Based-AI-Chat-Server-main/build",
+  "command": "/usr/bin/g++  -I/home/lc/Linux-Based-AI-Chat-Server-main -I/home/lc/Linux-Based-AI-Chat-Server-main/ChatBot -I/home/lc/Linux-Based-AI-Chat-Server-main/http -I/home/lc/Linux-Based-AI-Chat-Server-main/locker -I/home/lc/Linux-Based-AI-Chat-Server-main/log -I/home/lc/Linux-Based-AI-Chat-Server-main/MySQL -I/home/lc/Linux-Based-AI-Chat-Server-main/pool -I/home/lc/Linux-Based-AI-Chat-Server-main/timer -I/home/lc/Linux-Based-AI-Chat-Server-main/webserver -g -std=gnu++17 -o CMakeFiles/main.dir/webserver/webserver.cpp.o -c /home/lc/Linux-Based-AI-Chat-Server-main/webserver/webserver.cpp",
+  "file": "/home/lc/Linux-Based-AI-Chat-Server-main/webserver/webserver.cpp"
+}
+]
