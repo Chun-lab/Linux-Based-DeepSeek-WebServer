@@ -30,6 +30,6 @@
 
 ### DeepSeek聊天页面
 
-<img src="resources/img_readme/deepseek.png" width="461" height="351" alt="deepseek">
+<img src="resources/img_readme/deepseek.png" width="461" height="481" alt="deepseek">
 
 - 用户登录后，可以在此页面DeepSeek大模型进行聊天访问。
